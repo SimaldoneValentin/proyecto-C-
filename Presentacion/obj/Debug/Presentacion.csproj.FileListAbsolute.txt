@@ -1,0 +1,16 @@
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.frmCatalogo.resources
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presentacion.frmAltaArticulo.resources
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date

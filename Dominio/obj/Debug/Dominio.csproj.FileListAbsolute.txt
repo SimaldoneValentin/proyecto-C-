@@ -1,0 +1,6 @@
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\bin\Debug\Dominio.dll
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\obj\Debug\Dominio.dll
+C:\Users\Valen\Desktop\TPFinalNivel2_Simaldone\Dominio\obj\Debug\Dominio.pdb
